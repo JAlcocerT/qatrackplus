@@ -8,6 +8,10 @@
 *.pyproj
 *.suo
 *~
+
+.env
+documentaition/node_modules/
+
 .cache
 .coverage
 .idea/
